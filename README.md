@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **NeelBit/NeelBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola a todos!👋
+Soy estudiante autodidacta enfocado actualmente mas en front-end y tratando de seguir una ruta de aprendizaje, aunque no me gustaría dejar de lado el back-end. Tengo algunas prácticas realizadas en HTML, CSS, JS, Java, Python / Django. Además de tratar de mantener los fundamentos sólidos, me gusta siempre tratar de aprender cosas nuevas.
+
+Sígueme en <a href="https://twitter.com/NeelBit" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+⚡ Creo tener buenas habilidades blandas para trabajar en equipo, aunque todavía no pude probármelo.
+
+Saludos!
