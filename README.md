@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy NeelBit</h1>
-<h3 align="center">Soy estudiante autodidacta full stack, actualmente enfocado mayormente en front-end y tratando de seguir una ruta de aprendizaje, aunque no me gustaría dejar de lado el back-end. Tengo algunas prácticas realizadas en HTML, CSS, JS, Java, Python / Django. Además de tratar de mantener los fundamentos sólidos, me gusta siempre tratar de aprender cosas nuevas. Me gusta seguir noticias y tendencias sobre ciberseguridad.</h3>
+<h3 align="center">Soy estudiante autodidacta full stack, actualmente enfocado mayormente en front-end y tratando de seguir una ruta de aprendizaje, aunque no me gustaría dejar de lado el back-end. Tengo algunas prácticas realizadas en HTML, CSS, JS, Angular, Java, Python / Django. Además de tratar de mantener los fundamentos sólidos, me gusta siempre tratar de aprender cosas nuevas. Además, Me gusta seguir noticias y tendencias sobre ciberseguridad.</h3>
 
 <h3 align="left">Sígueme:</h3>
 <p align="left">
