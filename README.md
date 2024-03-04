@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy NeelBit</h1>
-<h3 align="center">Soy estudiante autodidacta full stack, actualmente enfocado en front-end y tratando de seguir una ruta de aprendizaje, aunque no me gustaría dejar de lado el back-end. Tengo algunas prácticas realizadas con HTML, CSS, JS, Java, Python / Django. Además de tratar de mantener los fundamentos sólidos, me gusta siempre tratar de aprender cosas nuevas. Me gusta seguir noticias y tendencias sobre ciberseguridad.</h3>
+<h3 align="center">Soy estudiante autodidacta, actualmente enfocado en front-end y tratando de seguir una ruta de aprendizaje, aunque no me gustaría dejar de lado el back-end. Tengo algunas prácticas realizadas con HTML, CSS, JS, Java, Python / Django. Además de tratar de mantener los fundamentos sólidos, me gusta siempre tratar de aprender cosas nuevas. Me gusta seguir noticias y tendencias sobre ciberseguridad.</h3>
 
 👨‍💻 La primera versión de mi portfolio [https://portfolio-neelbit.netlify.app/](https://portfolio-neelbit.netlify.app/)
 
